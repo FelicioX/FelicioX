@@ -49,22 +49,30 @@ I am interested in developing software solutions that combine engineering, artif
 
 ## 💻 Technical Skills
 
-### Programming Languages
+## Programming Languages
 
-* Python
-* Java
-* JavaScript
-* SQL
-* HTML
-* CSS
+- C++
+- Python
+- Java
+- JavaScript
+- PHP
+- SQL
+- HTML
+- CSS
+- Shell Script (Bash)
+- XML
 
-### Technologies
+## Technologies & Tools
 
-* Git
-* Docker
-* Linux
-* Blockchain
-* Artificial Intelligence
+- Git
+- Linux
+- Docker
+- Blockchain
+- JSON-RPC
+- Qt Framework
+- MongoDB
+- REST APIs
+- Artificial Intelligence
 
 ---
 
